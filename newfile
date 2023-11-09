@@ -1,0 +1,3 @@
+//Work on new app
+var t = "Hello world"
+echo "t"
